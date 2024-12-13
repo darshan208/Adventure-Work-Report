@@ -10,7 +10,7 @@ The Adventure Work Report project is my first Power BI report, aimed at analyzin
 * **Power Query Editor:** For data preprocessing and transformation.
 
 ## Dataset Information
-The dataset contains multiple tables related to Adventure Works:
+The dataset, covering sales data from 2020 to 2022, contains multiple tables related to Adventure Works:
 
 * Fact Tables:
 
