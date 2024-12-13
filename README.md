@@ -4,12 +4,12 @@
 ## Project Overview
 The Adventure Work Report project is my first Power BI report, aimed at analyzing sales and returns data from the Adventure Works dataset. This project demonstrates the use of advanced data modeling, DAX calculations, and interactive dashboards to extract meaningful business insights. It includes multi-dimensional analysis such as product performance, customer behavior, and geographical trends.
 
-## Tools and Technologies Used:
+## Tools and Technologies Used
 * **Power BI:** For creating visualizations, dashboards, and interactive reports.
 
 * **Power Query Editor:** For data preprocessing and transformation.
 
-## Dataset Information:
+## Dataset Information
 The dataset contains multiple tables related to Adventure Works:
 
 * Fact Tables:
